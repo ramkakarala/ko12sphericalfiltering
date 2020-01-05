@@ -2,6 +2,7 @@
 % "A phase-sensitive approach to filtering on the sphere"
 % R Kakarala and P. Ogunbona
 % IEEE Trans. Signal Processing, 2012, Vol. 60(12). 
+% see pdf in this repository
 % Included in this directory are software written by 
 % Professor Moo K. Chung, 
 % http://www.stat.wisc.edu/~mchung/softwares/weighted-SPHARM/weighted-SPHARM.html
