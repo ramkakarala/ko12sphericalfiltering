@@ -1,8 +1,7 @@
 %% MATLAB software accompanying the paper
 % "A phase-sensitive approach to filtering on the sphere"
 % R Kakarala and P. Ogunbona
-% Submitted to IEEE Trans Signal Processing
-% For review purposes only
+% IEEE Trans. Signal Processing, 2012, Vol. 60(12). 
 % Included in this directory are software written by 
 % Professor Moo K. Chung, 
 % http://www.stat.wisc.edu/~mchung/softwares/weighted-SPHARM/weighted-SPHARM.html
